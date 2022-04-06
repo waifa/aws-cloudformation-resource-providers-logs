@@ -159,7 +159,6 @@
     "/properties/LogGroupName"
   ],
   "primaryIdentifier": [
-    "/properties/LogGroupName",
     "/properties/FilterName"
   ],
   "additionalProperties": false
